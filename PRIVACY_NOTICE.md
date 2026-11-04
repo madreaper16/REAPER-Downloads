@@ -1,6 +1,6 @@
 # REAPER privacy notice
 
-This notice applies to REAPER public previews 0.4.6 through 0.4.8 by MadReaper16.
+This notice applies to REAPER public previews 0.4.6 through 0.4.9 by MadReaper16.
 
 ## Data on your PC
 
@@ -12,7 +12,7 @@ Support drafts are kept on this PC. Contact drafts save as you type. Problem-rep
 
 - **Storefronts.** Discovery reads local installation information. When you open a game through a storefront, REAPER passes the launch target to the installed client. That client handles its own sign-in, updates, and network activity.
 - **Account lookups and artwork.** This preview uses placeholder covers and has Steam account lookups, Steam stats, and IGDB search disabled. If an earlier REAPER build saved Steam credentials, they may remain in Windows Credential Manager until you choose **Forget Steam credentials**.
-- **Installation and updates.** If Windows WebView2 is missing, the installer can download the runtime bootstrapper from Microsoft. REAPER updates are downloaded manually. [Microsoft WebView2 distribution](https://learn.microsoft.com/en-us/microsoft-edge/webview2/concepts/distribution)
+- **Installation and updates.** If Windows WebView2 is missing, the installer can download the runtime bootstrapper from Microsoft. Starting in 0.4.9, REAPER requests a public update file from GitHub at startup and when you choose **Check for updates**. You can turn off startup checks in About REAPER. GitHub receives normal connection information such as your IP address. REAPER does not send your library, credentials, or settings. REAPER downloads the installer from GitHub when you choose **Download and install**. [Microsoft WebView2 distribution](https://learn.microsoft.com/en-us/microsoft-edge/webview2/concepts/distribution)
 - **Support.** You can review, copy, save, or open an email draft for a message or report. You choose whether to include the REAPER version and Windows build number. Your email service handles the message if you send it, and MadReaper16 receives it. REAPER opens the GitHub issue tracker without attaching or passing your report text. If you post a public issue, anyone may be able to read what you share. Leave credentials and private paths out of support submissions.
 - **Voluntary tips.** Starting in 0.4.8, choosing Support REAPER opens Ko-fi in your browser. Ko-fi and its payment provider handle any payment. REAPER records no clicks, payment details, or tip history.
 
