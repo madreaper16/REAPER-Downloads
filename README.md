@@ -2,8 +2,8 @@
 
 REAPER is a free Windows game launcher by **MadReaper16**.
 
-- [Download REAPER](../../releases)
-- [Report a problem](../../issues)
+- [Download REAPER](https://github.com/madreaper16/REAPER-Downloads/releases)
+- [Report a problem](https://github.com/madreaper16/REAPER-Downloads/issues)
 - [Privacy notice](PRIVACY_NOTICE.md)
 - [Installer terms](INSTALLER_TERMS.md)
 
