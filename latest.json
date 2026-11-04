@@ -1,0 +1,10 @@
+{
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/madreaper16/REAPER-Downloads/releases/download/v0.4.9/REAPER_0.4.9_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWnBxcDEvTnEvd09CbDZsMnp1TzhOYzNZVjNqSk4rTGxqUGxsK1BUUW5yMGN0NFhzYklTRXhrN0NzWHRVSW5aWDhuTHU4U2JjOExpSVZzOHFjTVkvb0ZlMkFWTEc2UXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE5MzQ3CWZpbGU6UkVBUEVSXzAuNC45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuOQp4cFNSd2dxdEhTMlIweVV6VERBT0lobFY1Q1NMaVhFb0ZacUhHVkxCYUJHZWFYOWgwczVxSW94OHFxS1lxWXNBd2U0N290bTZSMGxuZnE3R0RyMWxEdz09Cg=="
+    }
+  },
+  "notes": "Added in-app updates and unified the REAPER icon across Windows and the app.",
+  "version": "0.4.9"
+}
