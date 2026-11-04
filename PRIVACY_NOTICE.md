@@ -1,6 +1,6 @@
 # REAPER privacy notice
 
-This notice applies to the REAPER 0.4.6 public preview by MadReaper16.
+This notice applies to REAPER public previews 0.4.6 and 0.4.7 by MadReaper16.
 
 ## Data on your PC
 
