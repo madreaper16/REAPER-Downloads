@@ -1,0 +1,10 @@
+# REAPER Downloads
+
+REAPER is a free Windows game launcher by **MadReaper16**.
+
+- [Download REAPER](../../releases)
+- [Report a problem](../../issues)
+- [Privacy notice](PRIVACY_NOTICE.md)
+- [Installer terms](INSTALLER_TERMS.md)
+
+This repository hosts the Windows installer and issue tracker. For private support, email **madreaper016@gmail.com**. GitHub issues are public.
